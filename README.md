@@ -71,8 +71,7 @@ Five models were trained and evaluated:
 Scatter plots for each model show how closely predicted values align with actual prices.  
 The red dashed line represents the ideal prediction (Perfect Fit).
 
-*(Example plot from the notebook)*  
-![Scatter Plots](docs/scatter_plots.png)
+
 
 ---
 
